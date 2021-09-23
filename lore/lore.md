@@ -4,21 +4,21 @@ Here you can find some exclusive lore regarding aspects not completely covered i
 
 ## The Kingdoms
 
-* [Lapis Kingdom]()
+* [Lapis Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/lapis)
 
-* [Polar Kingdom]()
+* [Polar Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/polar)
 
-* [Nether Kingdom]()
+* [Nether Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/nether_kingdom)
 
-* [Forest Kingdom]()
+* [Forest Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/forest)
 
-* [Stone Kingdom]()
+* [Stone Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/stone)
 
-* [End Kingdom]()
+* [End Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/end_kingdom)
 
-* [Desert Kingdom]()
+* [Desert Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/desert)
 
-* [Northern Kingdom]()
+* [Northern Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/northern)
 
-* [Aether Kingdom]()
+* [Aether Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/aether_kingdom)
 
