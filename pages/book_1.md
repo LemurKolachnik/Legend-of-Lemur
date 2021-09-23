@@ -6,55 +6,55 @@
 It had been sixteen years since The Surge ravaged the Overworld with the rise of the Undead. A young boy named Lemur Kolachnik had lived a rather average life, behind the safety of the village he lived in, and was ready to venture to the world beyond. What he experienced out there, was nothing like he had ever expected. 
 
 ## Chapters:
-* Prologue: [The Dreaded Curse](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/prologue)
-* Chapter 1: Lemur vs Steve
-* Chapter 2: Derek
-* Chapter 3: Thorn
-* Chapter 4: A War
-* Chapter 5: The Capture
-* Chapter 6: The Princess
-* Chapter 7: The Escape
-* Chapter 8: Merchant Village
-* Chapter 9: Yin and Yang
-* Chapter 10: The Battle Commences
-* Chapter 11: Lemur's Lost Memory
-* Chapter 12: The Kingdom Walls
-* Chapter 13: The Lapis Kingdom
-* Chapter 14: The Zombie Pit
-* Chapter 14.5: Hidden Passage
-* Chapter 15: The Lapis Mines
-* Chapter 16: The Doctor's In
-* Chapter 17: The Walls Fall Down
-* Chapter 18: Kingdom Evacuation
-* Chapter 19: The Fallen Ally
-* Chapter 20: The Fallen Kingdom
-* Chapter 21: Overthrown
-* Chapter 22: Běn Dé Village
-* Chapter 23: Waterbending
-* Chapter 24: Firebending
-* Chapter 25: Earthbending
-* Chapter 26: Airbending
-* Chapter 27: The Robotic Truth
-* Chapter 28: The Maker
-* Chapter 29: The Mysterious Note
-* Chapter 30: The Polar Kingdom
-* Chapter 31: An Old Friend
-* Chapter 32: The Forest Speaks
-* Chapter 33: The Dreadful Past
-* Chapter 34: The Ender Corporation
-* Chapter 35: Recollection of Memories
-* Chapter 36: The Spirit
-* Chapter 37: The Start to a War
-* Chapter 38: The Madman's Experiment
-* Chapter 39: The Search
-* Chapter 40: Speed Teleportation
-* Chapter 41: The Journey Home
-* Chapter 42: Běn Dé's Destruction
-* Chapter 43: Reoccurring Flashbacks
-* Chapter 44: The Forest Kingdom
-* Chapter 45: Wage the Ender War
-* Chapter 46: The Ender War
-* Chapter 47: The Lapis Union
-* Chapter 48: The Cherished Secret
-* Chapter 49: The Royal Wedding
-* Epilogue: The Wandering Spirit
+* [Prologue](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/prologue)
+* [Chapter 1](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/1)
+* [Chapter 2](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/2)
+* [Chapter 3](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/3)
+* [Chapter 4](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/4)
+* [Chapter 5](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/5)
+* [Chapter 6](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/6)
+* [Chapter 7](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/7)
+* [Chapter 8](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/8)
+* [Chapter 9](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/9)
+* [Chapter 10](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/10)
+* [Chapter 11](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/11)
+* [Chapter 12](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/12)
+* [Chapter 13](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/13)
+* [Chapter 14](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/14)
+* [Chapter 14.5](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/14_5)
+* [Chapter 15](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/15)
+* [Chapter 16](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/16)
+* [Chapter 17](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/17)
+* [Chapter 18](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/18)
+* [Chapter 19](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/19)
+* [Chapter 20](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/20)
+* [Chapter 21](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/21)
+* [Chapter 22](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/22)
+* [Chapter 23](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/23)
+* [Chapter 24](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/24)
+* [Chapter 25](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/25)
+* [Chapter 26](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/26)
+* [Chapter 27](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/27)
+* [Chapter 28](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/28)
+* [Chapter 29](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/29)
+* [Chapter 30](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/30)
+* [Chapter 31](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/31)
+* [Chapter 32](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/32)
+* [Chapter 33](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/33)
+* [Chapter 34](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/34)
+* [Chapter 35](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/35)
+* [Chapter 36](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/36)
+* [Chapter 37](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/37)
+* [Chapter 38](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/38)
+* [Chapter 39](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/39)
+* [Chapter 40](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/40)
+* [Chapter 41](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/41)
+* [Chapter 42](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/42)
+* [Chapter 43](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/43)
+* [Chapter 44](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/44)
+* [Chapter 45](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/45)
+* [Chapter 46](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/46)
+* [Chapter 47](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/47)
+* [Chapter 48](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/48)
+* [Chapter 49](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/49)
+* [Epilogue](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/epilogue)
