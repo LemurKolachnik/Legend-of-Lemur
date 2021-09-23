@@ -2,6 +2,7 @@
 
 ## Told by: Nautilius, The Elder Villager
 Let me tell you a story of a terrible event that happened some 16 years ago. Now before I start let me tell you exactly when this started, back in year 2000, a year before the event.
+
 **(Year 2000 : Somewhere in the Overworld)**
 
 
