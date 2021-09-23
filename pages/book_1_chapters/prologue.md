@@ -53,12 +53,17 @@ And so I did. I broke free of the guards and caught a glimpse of what Brine beca
 
 ## Told by: Nautilius, The Elder Villager
 After some five hours, Steve returned... alone. "Where's Brine?" I asked. His face showed the answer as the mentioning of his name brought tears to his eyes. "Oh, I apologize."
+
 "It's ok, just grab his stuff, let his wife know the news and we shall give him a ceremonial send off." So I obeyed Steve and went to Brine's house to break the news to Alex. Thump, thump thump!
+
 "Alex, I have to tell you something, and its not good news"
+
 No answer, so I knocked on the door again. Thump, thump, thump! Still nothing. So I opened the door and no one was inside, or at least, thats what it seemed. In a box on the bed, was a baby... a small baby. It had brown hair with a strand of blonde. I lifted up the child and I instantly knew that this child was Brine and Alex's child. I rushed out the door with the child to find Steve and when he did, he had mixed emotions. "Wh-What's that?" Steve asked.
 "It's a child. I found him in Brine's house. Alex isn't home though," I said. Steve shrugged his shoulders and his expression showed confusion.
 "Well, what am I supposed to do with it?" Steve asked.
+
 "Well you could start by naming him, rather than calling him 'it'."
+
 Steve noticed what he was saying and blurted out one word.
 "Lemur," he said, "Let's name him Lemur."
 
