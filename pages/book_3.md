@@ -6,26 +6,26 @@
 After defeating Herobrine once and for all, meeting his true father, and finally becoming Galaxy's husband, the kingdoms now live in unity. However, when a call informing the Forest Kingdom's destruction puts everyone on edge, the kingdoms must unite and defend theirselves from this new evil. Will the kingdoms survive, or will they too, be ravaged like the Forest Kingdom?
 
 ## Chapters:
-* Prologue: The Shifting Sands
-* Chapter 1: S.O.S.
-* Chapter 2: Looming Cloud of Doom
-* Chapter 3: The Scouting Mission
-* Chapter 4: Running With the Wolves
-* Chapter 5: Reclaiming What's Ours
-* Chapter 6: Yang's Date
-* Chapter 7: The Next Steps
-* Chapter 8: The Defense
-* Chapter 9: The Kingdom of Sand
-* Chapter 10: The Evil Within
-* Chapter 11: Burial
-* Chapter 12: Course of Action
-* Chapter 13: The Preparations of War
-* Chapter 14: The Sparring Match
-* Chapter 15: The Person Makes the Sword
-* Chapter 16: Counterstrike
-* Chapter 17: Fatespeaker
-* Chapter 18: Rise of the Desert Queen
-* Chapter 19: Elysium
-* Chapter 20: Fallen Angel
-* Chapter 21: Aftermath
-* Epilogue: The Prophet
+* [Prologue](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/prologue)
+* [Chapter 1](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/1)
+* [Chapter 2](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/2)
+* [Chapter 3](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/3)
+* [Chapter 4](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/4)
+* [Chapter 5](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/5)
+* [Chapter 6](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/6)
+* [Chapter 7](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/7)
+* [Chapter 8](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/8)
+* [Chapter 9](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/9)
+* [Chapter 10](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/10)
+* [Chapter 11](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/11)
+* [Chapter 12](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/12)
+* [Chapter 13](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/13)
+* [Chapter 14](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/14)
+* [Chapter 15](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/15)
+* [Chapter 16](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/16)
+* [Chapter 17](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/17)
+* [Chapter 18](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/18)
+* [Chapter 19](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/19)
+* [Chapter 20](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/20)
+* [Chapter 21](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/21)
+* [Epilogue](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_3_chapters/epilogue)
