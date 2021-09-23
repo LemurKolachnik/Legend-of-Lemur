@@ -5,7 +5,7 @@
 It had been sixteen years since The Surge ravaged the Overworld with the rise of the Undead. A young boy named Lemur Kolachnik had lived a rather average life, behind the safety of the village he lived in, and was ready to venture to the world beyond. What he experienced out there, was nothing like he had ever expected. 
 
 ## Chapters:
-* Prologue: The Dreaded Curse
+* Prologue: [The Dreaded Curse](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/prologue)
 * Chapter 1: Lemur vs Steve
 * Chapter 2: Derek
 * Chapter 3: Thorn
