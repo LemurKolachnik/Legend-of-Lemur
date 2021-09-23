@@ -1,4 +1,5 @@
 # The Legend of Lemur: Rise of the Desert Queen
+---
 ![Rise of the Desert Queen Cover](https://img.wattpad.com/cover/157897639-352-k692063.jpg)
 
 ## Description:
