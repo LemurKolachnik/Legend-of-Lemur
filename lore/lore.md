@@ -1,21 +1,24 @@
-# The Kingdoms
+# The Legend of Lemur Lore
 ---
+Here you can find some exclusive lore regarding aspects not completely covered in the stories!
 
-## Lapis Kingdom
+## The Kingdoms
 
-## Polar Kingdom
+* [Lapis Kingdom]()
 
-## Nether Kingdom
+* [Polar Kingdom]()
 
-## Forest Kingdom
+* [Nether Kingdom]()
 
-## Stone Kingdom
+* [Forest Kingdom]()
 
-## End Kingdom
+* [Stone Kingdom]()
 
-## Desert Kingdom
+* [End Kingdom]()
 
-## Northern Kingdom
+* [Desert Kingdom]()
 
-## The Aether (Kingdom)
+* [Northern Kingdom]()
+
+* [Aether Kingdom]()
 
