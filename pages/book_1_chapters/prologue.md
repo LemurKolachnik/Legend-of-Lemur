@@ -62,5 +62,5 @@ No answer, so I knocked on the door again. Thump, thump, thump! Still nothing. S
 Steve noticed what he was saying and blurted out one word.
 "Lemur," he said, "Let's name him Lemur."
 
-* [Next](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/1)
-* [Previous](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/1)
+
+[Next](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_1_chapters/1)
