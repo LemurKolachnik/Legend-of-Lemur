@@ -6,18 +6,18 @@
 After Lemur learning his true past, his evil father killed, and defeating the infamous Ender Corporation, Lemur now decides to create himself a future with Galaxy as husband and wife. As the wedding was drawing to an end, it was crashed by a familiar evil presence. Will Lemur and his friends defeat evil once again?
 
 ## Chapters:
-* Chapter 1: The Wedding Crasher
-* Chapter 2: The Possessed Robot
-* Chapter 3: The Meeting
-* Chapter 4: The Lost Time
-* Chapter 5: Herobrine's Revenge
-* Chapter 6: A Glimmer of Hope
-* Chapter 7: The Hope Diamond
-* Chapter 8: The Master Plan
-* Chapter 9: The Trek to Hope Diamond
-* Chapter 10: Surprise Visit
-* Chapter 11: Onward
-* Chapter 12: Arrival
-* Chapter 13: Our Darkest Hour
-* Chapter 14: Memoriam
-* Epilogue: Nothing is as it Seems
+* [Chapter 1](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/1)
+* [Chapter 2](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/2)
+* [Chapter 3](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/3)
+* [Chapter 4](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/4)
+* [Chapter 5](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/5)
+* [Chapter 6](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/6)
+* [Chapter 7](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/7)
+* [Chapter 8](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/8)
+* [Chapter 9](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/9)
+* [Chapter 10](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/10)
+* [Chapter 11](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/11)
+* [Chapter 12](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/12)
+* [Chapter 13](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/13)
+* [Chapter 14](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/14)
+* [Epilogue](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_2_chapters/epilogue)
