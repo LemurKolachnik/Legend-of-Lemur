@@ -24,3 +24,19 @@
 
 * [Aether Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/aether)
 
+
+## The Realms
+---
+
+* [Heaven](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/realms/heaven)
+
+* [Aether](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/realms/aether)
+
+* [Overworld](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/realms/overworld)
+
+* [End](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/realms/end)
+
+* [Nether](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/realms/nether)
+
+* [Hell](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/realms/hell)
+
