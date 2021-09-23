@@ -1,4 +1,5 @@
 # The Legend of Lemur: Herobrine UNLEASHED
+---
 ![Herobrine UNLEASHED Cover](https://img.wattpad.com/cover/157897634-352-k848872.jpg)
 
 ## Description:
