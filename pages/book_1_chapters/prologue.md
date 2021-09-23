@@ -59,6 +59,7 @@ After some five hours, Steve returned... alone. "Where's Brine?" I asked. His fa
 "Alex, I have to tell you something, and its not good news"
 
 No answer, so I knocked on the door again. Thump, thump, thump! Still nothing. So I opened the door and no one was inside, or at least, thats what it seemed. In a box on the bed, was a baby... a small baby. It had brown hair with a strand of blonde. I lifted up the child and I instantly knew that this child was Brine and Alex's child. I rushed out the door with the child to find Steve and when he did, he had mixed emotions. "Wh-What's that?" Steve asked.
+
 "It's a child. I found him in Brine's house. Alex isn't home though," I said. Steve shrugged his shoulders and his expression showed confusion.
 "Well, what am I supposed to do with it?" Steve asked.
 
