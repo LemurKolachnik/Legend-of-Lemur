@@ -5,3 +5,5 @@ The Nether Kingdom, residing in the Nether, was a massive kingdom which tamed mo
 
 ## History
 The Nether Kingdom is an ancient kingdom, dating back before years were counted. The Kingdom was constructed by Hades, Erebus and Thanatos, and had been ruled by them until they retreated to Hell (when the year count began). King Wither had been conjured by the three Gods and set to rule the Nether Kingdom. King Wither's rule lasted for 2017 years, until Lemur had killed him during a battle with Herobrine. Since then, the kingdom is ruled by Lemur, however, a figurehead named King Kaīta resides in the throne room. 
+
+[Back](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/lore)
