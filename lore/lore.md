@@ -10,19 +10,19 @@
 
 * [Polar Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/polar)
 
-* [Nether Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/nether)
-
 * [Forest Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/forest)
 
 * [Stone Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/stone)
-
-* [End Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/end)
 
 * [Desert Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/desert)
 
 * [Northern Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/northern)
 
+* [Nether Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/nether)
+
 * [Aether Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/aether)
+
+* [End Kingdom](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/kingdoms/end)
 
 
 ## The Realms
