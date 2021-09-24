@@ -5,3 +5,5 @@ The Forest Kingdom was originally one of the largest kingdoms, spanning several 
 
 ## History
 The Forest Kingdom was built between 2012 and 2014, by several women and children. These women and children originally lived in a large village until it was pillaged by the notorious Ender Corporation. The village's men were all killed, but the women and children escaped and elected the village chief's wife, Aurea Juniper, to lead them. Aurea Juniper has ruled ever since as the Warrior Princess of the Forest Kingdom. 
+
+[Back](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/lore)
