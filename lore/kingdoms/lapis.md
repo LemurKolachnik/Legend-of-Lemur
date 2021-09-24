@@ -12,3 +12,4 @@ In 2012, Lazuli and Arthur Galaxy left Lillian in charge of the kingdom temporar
 
 After Lillian's marriage to Lemur Kolachnik in 2019, she had become Queen of the Lapis Kingdom officially and still rules today.
 
+[Back](https://lemurkolachnik.github.io/Legend-of-Lemur/lore/lore)
