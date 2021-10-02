@@ -372,9 +372,9 @@ div.gallery img {
 
 /* Create four equal columns that sits next to each other */
 .column {
-  -ms-flex: 30%; /* IE10 */
-  flex: 30%;
-  max-width: 30%;
+  -ms-flex: 28%; /* IE10 */
+  flex: 28%;
+  max-width: 28%;
   padding: 0 4px;
 }
 
@@ -387,9 +387,9 @@ div.gallery img {
 /* Responsive layout - makes a two column-layout instead of four columns */
 @media screen and (max-width: 800px) {
   .column {
-    -ms-flex: 30%;
-    flex: 30%;
-    max-width: 30%;
+    -ms-flex: 28%;
+    flex: 28%;
+    max-width: 28%;
   }
 }
 
