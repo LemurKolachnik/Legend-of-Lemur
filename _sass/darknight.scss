@@ -277,7 +277,7 @@ section {
   }
 }
 
-@media print, screen and (max-width: 720px) {
+@media print, screen and (max-width: 800px) {
 
   #title {
     .credits {
@@ -299,7 +299,7 @@ section {
   }
 }
 
-@media print, screen and (max-width: 480px) {
+@media print, screen and (max-width: 600px) {
 
   #header {
     margin-top: -20px;
@@ -408,7 +408,7 @@ div.desc {
 }
 
 /* Add media queries for small screens (when the height of the screen is less than 450px, add a smaller padding and font-size) */
-@media screen and (max-height: 450px) {
+@media screen and (max-height: 600px) {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 18px;}
 }
