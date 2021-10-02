@@ -1,7 +1,6 @@
 @import "normalize";
 @import "fonts";
 @import "rouge-base16-dark.scss";
-
 body {
   padding:0px 0 20px 0px;
   margin: 0px;
@@ -12,35 +11,27 @@ body {
   background-attachment: fixed !important;
   background: linear-gradient(#000000, #252525);
 }
-
 h1, h2, h3, h4, h5, h6 {
   color:#00e100;
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
 }
-
 p, ul, ol, table, pre, dl {
   margin:0 0 20px;
 }
-
 h1, h2, h3 {
   line-height:1.1;
-
 }
-
 h1 {
   font-size:28px;
 }
-
 h2 {
   font-size: 24px;
 }
-
 h4, h5, h6 {
   color:#e8e8e8;
 }
-
 h3 {
   font-size: 18px;
   line-height: 24px;
@@ -48,51 +39,42 @@ h3 {
   font-weight: normal;
   color: #b6b6b6;
 }
-
 a {
   color:#00ffc8;
   font-weight:400;
   text-decoration:none;
-
   &:hover {
     color: #9bfff2;
   }
 }
-
 a small {
   font-size:11px;
   color:#666;
   margin-top:-0.6em;
   display:block;
 }
-
 ul{
   list-style-image:url('../images/bullet.png');
 }
-
 strong {
   font-family: 'OpenSansBold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
 }
-
 .wrapper {
   max-width:650px;
   margin:0 auto;
   position:relative;
   padding: 0 20px;
 }
-
 section img {
   max-width: 100%;
 }
-
 blockquote {
   border-left:3px solid #808080;
   margin:0;
   padding:0 0 0 20px;
   font-style:italic;
 }
-
 code {
   font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, monospace;
   color:#efefef;
@@ -101,7 +83,6 @@ code {
   padding: 4px 6px;
   border-radius: 2px;
 }
-
 pre {
   padding:8px 15px;
   background: #191919;
@@ -110,7 +91,6 @@ pre {
   box-shadow: inset 0 1px 3px rgba(0,0,0,.3);
   overflow: auto;
   overflow-y: hidden;
-
   code {
     color: #efefef;
     text-shadow: 0px 1px 0px #000;
@@ -118,12 +98,10 @@ pre {
     padding: 0;
   }
 }
-
 table {
   width:100%;
   border-collapse:collapse;
 }
-
 th {
   text-align:left;
   padding:5px 10px;
@@ -132,13 +110,11 @@ th {
   font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
 }
-
 td {
   text-align:left;
   padding:5px 10px;
   border-bottom:1px solid #434343;
 }
-
 hr {
   border: 0;
   outline: none;
@@ -146,14 +122,11 @@ hr {
   background: transparent url('../images/hr.gif') center center repeat-x;
   margin: 0 0 20px;
 }
-
 dt {
   color:#d5f0e5;
   font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
 }
-
-
 #header {
   z-index: 100;
   left:0px;
@@ -164,19 +137,16 @@ dt {
   background: url(../images/nav-bg.gif) #353535;
   border-bottom: 4px solid #434343;
   box-shadow: 0px 1px 3px rgba(0,0,0,.25);
-
   nav {
     max-width: 650px;
     margin: 0 auto;
     padding: 0 10px;
     background: blue;
     margin: 6px auto;
-
     ul {
       list-style-type: none;
       margin: 0;
       padding: 0;
-
       li {
         font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-weight: normal;
@@ -186,14 +156,12 @@ dt {
         line-height: 50px;
         text-shadow: 0px 1px 0px rgba(0,0,0,.2);
         font-size: 14px;
-
         a {
           color: white;
           border: 1px solid #5d910b;
           background: linear-gradient(#93bd20, #659e10);
           border-radius: 2px;
           box-shadow: inset 0px 1px 0px rgba(255,255,255,.3), 0px 3px 7px rgba(0,0,0,.7);
-
           background-color: #93bd20;
           padding: 10px 12px;
           margin-top: 6px;
@@ -201,7 +169,6 @@ dt {
           font-size:14px;
           display:inline-block;
           text-align:center;
-
           &:hover {
             background: linear-gradient(#749619, #527f0e);
             background-color: #659e10;
@@ -209,17 +176,14 @@ dt {
             box-shadow: inset 0px 1px 1px rgba(0,0,0,.2), 0px 1px 0px rgba(0,0,0,.0);
           }
         }
-
         &.fork {
           float: left;
           margin-left: 0px;
         }
-
         &.downloads {
           float: right;
           margin-left: 6px;
         }
-
         &.title {
           float: right;
           margin-right: 10px;
@@ -229,19 +193,16 @@ dt {
     }
   }
 }
-
 section {
   max-width:650px;
   padding: 30px 0px 50px 0px;
   margin: 20px 0;
   margin-top: 70px;
-
   #title {
     border: 0;
     outline: none;
     margin: 0 0 50px 0;
     padding: 0 0 5px 0;
-
     h1 {
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
@@ -249,7 +210,6 @@ section {
       text-align: center;
       line-height: 36px;
     }
-
     p {
       color: #d7cfbe;
       font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -257,40 +217,32 @@ section {
       font-size: 18px;
       text-align: center;
     }
-
     .credits {
       font-size: 11px;
       font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
       font-weight: normal;
       color: #696969;
       margin-top: -10px;
-
       &.left {
         float: left;
       }
-
       &.right {
         float: right;
       }
     }
-
   }
 }
-
-@media print, screen and (max-width: 800px) {
-
+@media print, screen and (max-width: 720px) {
   #title {
     .credits {
       display: block;
       width: 100%;
       line-height: 30px;
       text-align: center;
-
       .left {
         float: none;
         display: block;
       }
-
       .right {
         float: none;
         display: block;
@@ -298,13 +250,10 @@ section {
     }
   }
 }
-
-@media print, screen and (max-width: 600px) {
-
+@media print, screen and (max-width: 480px) {
   #header {
     margin-top: -20px;
   }
-
   section {
     margin-top: 40px;
   }
@@ -312,7 +261,6 @@ section {
     display: none;
   }
 }
-
 .sidebar {
   height: 100%;
   width: 20%;
@@ -324,8 +272,6 @@ section {
   overflow-x: hidden;
   padding-top: 16px;
 }
-
-
 /* Style sidebar links */
 .sidebar a {
   padding: 6px 8px 6px 16px;
@@ -334,29 +280,24 @@ section {
   color: #818181;
   display: block;
 }
-
 /* Style links on mouse-over */
 .sidebar a:hover {
   color: #f1f1f1;
 }
-
 /* Style the main content */
 .main {
   margin-left: 160px; /* Same as the width of the sidenav */
   padding: 0px 10px;
 }
-
 div.gallery {
   margin: 5px;
   border: 1px solid #ccc;
   float: left;
   width: 180px;
 }
-
 div.gallery:hover {
   border: 1px solid #777;
 }
-
 div.gallery img {
   width: 100%;
   height: auto;
@@ -403,13 +344,21 @@ div.gallery img {
 }
 
 div.desc {
-  padding: 9px;
+
+    
+          
+            
+    
+
+          
+    
+    
+  
+  padding: 15px;
   text-align: center;
 }
-
 /* Add media queries for small screens (when the height of the screen is less than 450px, add a smaller padding and font-size) */
 @media screen and (max-height: 450px) {
   .sidebar {padding-top: 15px;}
   .sidebar a {font-size: 18px;}
 }
-
