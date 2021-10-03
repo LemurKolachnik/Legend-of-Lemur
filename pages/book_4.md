@@ -9,3 +9,4 @@ A year had passed since the Desert Kingdom's wicked ruler had been defeated and 
 * [Chapter 1](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_4_chapters/1)
 * [Chapter 2](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_4_chapters/2)
 * [Chapter 3](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_4_chapters/3)
+* [Chapter 4](https://lemurkolachnik.github.io/Legend-of-Lemur/pages/book_4_chapters/4)
