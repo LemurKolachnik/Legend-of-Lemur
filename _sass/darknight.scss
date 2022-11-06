@@ -146,7 +146,7 @@ dt {
     ul {
       list-style-type: none;
       margin: 0;
-      padding: 0;
+      padding: 25;
       li {
         font-family: 'OpenSansLight', "Helvetica Neue", Helvetica, Arial, sans-serif;
         font-weight: normal;
@@ -177,7 +177,7 @@ dt {
           }
         }
         &.fork {
-          float: middle;
+          float: left;
           margin-left: 0px;
         }
         &.downloads {
