@@ -343,6 +343,7 @@ div.gallery img {
     -ms-flex: 33%;
     flex: 33%;
     max-width: 33%;
+    padding: 0 4px;
   }
 }
 
@@ -354,9 +355,10 @@ div.gallery img {
     max-width: 100%;
   }
   .column2 {
-    -ms-flex: 25%;
-    flex: 25%;
-    max-width: 25%;
+    -ms-flex: 33%;
+    flex: 33%;
+    max-width: 33%;
+    padding: 0 4px;
   }
 }
 
